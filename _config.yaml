@@ -1,17 +1,17 @@
 # site properties and page defaults
-title: ReZoom
-subtitle: University of Maryland research group
+title: Self-Driving Scooter Research
+subtitle: <i>University of Maryland</i>
 description: Welcome! Our mission is to design self-driving escooters. We are a research team at the University of Maryland under Dr. Paley at the Robotics and Autonomy Lab. Reach out to us if you're interested in joining!
-header: images/scooter.png
-footer: images/scooter.png
+header: images/background.jpg
+footer: images/background.jpg
 
 # site social media and other links
 links:
   email: dpaley@umd.edu
-  orcid: a
-  google-scholar: a
+  orcid: 
+  google-scholar: 
   github: REZOOM-UMD
-  twitter: a
+  twitter: 
   youtube: UMDRobotics
 
 ### jekyll settings
