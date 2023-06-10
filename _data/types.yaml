@@ -52,6 +52,11 @@ home-page:
   text: Home Page
   tooltip: Home page
 
+contact-page:
+  icon: fa-solid fa-user
+  text: Contact Page
+  tooltip: Contact Page
+
 email:
   icon: fa-solid fa-envelope
   text: Email
