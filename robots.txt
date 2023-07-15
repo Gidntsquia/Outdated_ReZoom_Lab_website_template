@@ -1,1 +1,1 @@
-Sitemap: /sitemap.xml
+Sitemap: /Outdated_ReZoom_Lab_website_template/sitemap.xml
